@@ -19,7 +19,7 @@ Paper: [https://arxiv.org/abs/2403.02045](https://arxiv.org/abs/2403.02045)
 
 ## Usage
 
-see [scalability.ipynb](https://github2.cae.tytlabs.co.jp/e1689/RQRAO-release/blob/main/scalability.ipynb)
+see [scalability.ipynb](https://github.com/ToyotaCRDL/rqrao/blob/main/scalability.ipynb)
 
 NOTE: The term `rank2` used in `classical.py` and `scalability.ipynb` refers to the CirCut method.
 
